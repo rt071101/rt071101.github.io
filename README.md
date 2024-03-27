@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE html>
   <head>
     <title>Jose's Landscaping</title>
   </head>
